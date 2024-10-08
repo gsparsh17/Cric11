@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952346430873",
+    "project_id": "instant-medium-434508-q5",
+    "storage_bucket": "instant-medium-434508-q5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952346430873:android:b9b144065e165f528d5708",
+        "android_client_info": {
+          "package_name": "com.cric11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfoS-R-2mODlVcfCMFJ92RllA_GruwP94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
